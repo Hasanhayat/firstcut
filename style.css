@@ -221,3 +221,25 @@ text-align: left;
   font-family: "Poppins", sans-serif;
 
 }
+
+
+
+.f1{
+  height: 15vh;
+  background-color: #F1D9B5;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 35px;
+ 
+}
+
+
+.f1 img{
+  filter: grayscale(0.5);
+  transition: all 0.5s linear;
+}
+.f1 img:hover{
+  filter: grayscale(0);
+}
