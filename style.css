@@ -222,6 +222,17 @@ text-align: left;
 
 }
 
+.barber-Number{
+  overflow-x: hidden;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 5px;
+  padding: 30px 10px;
+  flex-wrap: wrap;
+  margin: 50px auto;
+}
+
 
 
 .f1{
