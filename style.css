@@ -136,6 +136,7 @@ li:hover {
 .esta {
   display: flex;
   align-items: center;
+  margin-top: 40px;
 }
 .esta .cont2 p {
   font-size: 13px;
@@ -322,4 +323,138 @@ button {
   font-size: 13px;
   font-weight: 400;
   line-height: 24px;
+}
+.f3{
+display: flex;
+align-items: center;
+justify-content: center;
+gap: 20px;
+width: 100%;
+height: 320px;
+background-color: #1A1A1A;
+
+}
+.f3 div{
+  width: 320px;
+height: 204.16px;
+
+
+}
+.con{
+  background-color:#1A1A1A;
+}
+.padding{
+  padding-left: 10%;
+  padding-right: 10%;
+}
+.f{
+  margin-left: 10%;
+  color: #CDCDCD;
+}
+.f p{
+  font-family: "Poppins",sans-serif;
+font-size: 14px;
+font-weight: 400;
+line-height: 22.4px;
+
+}
+.f span{
+  font-family: "Poppins",sans-serif;
+font-size: 14px;
+font-weight: 700;
+line-height: 22.4px;
+text-align: left;
+color: #fff;
+
+
+}
+.f a{
+  text-decoration: none;
+  color: #CDCDCD;
+  font-family: "Poppins";
+font-size: 14px;
+font-weight: 500;
+line-height: 22.4px;
+text-align: left;
+
+}
+.s h1 ,.t h1, .fo h1{
+  font-family: "Cormorant Garamond",serif;
+font-size: 23px;
+font-weight: 700;
+line-height: 27.6px;
+border-bottom: 1px solid #FFFFFF3B;
+margin-bottom: 10px;
+padding-bottom: 10px;
+
+}
+.s h2{
+  font-family: "Poppins",sans-serif;
+font-size: 14px;
+font-weight: 600;
+line-height: 22.4px;
+text-align: left;
+
+}
+.s p{
+  font-family: "Poppins",sans-serif;
+font-size: 14px;
+font-weight: 400;
+line-height: 22.4px;
+text-align: left;
+color: #CDCDCD;
+
+}
+.t p{
+  font-family: "Poppins", sans-serif;
+font-size: 14px;
+font-weight: 400;
+line-height: 22.4px;
+text-align: left;
+border-bottom: 1px dotted #FFFFFF29;
+color: #CDCDCD;
+cursor: pointer;
+
+
+}
+
+
+
+.fo{
+  margin-right: 10%;
+}
+
+.fo p{
+  font-family: "Poppins",sans-serif;
+font-size: 14px;
+font-weight: 400;
+line-height: 22.4px;
+text-align: left;
+color: #CDCDCD;
+
+}
+.input{
+  display: flex;
+  align-items: flex-start;
+  gap: 5px;
+  margin-top: 10px;
+}
+.input input{
+  width: 207.89px;
+height: 40px;
+font-family: "Poppins", sans-serif;
+font-size: 16px;
+font-weight: 400;
+line-height: 24px;
+text-align: left;
+
+
+}
+.input button{
+border: none;
+outline: none;
+height: 44px;
+}
+.input button img{
+  height: 44px;
 }
